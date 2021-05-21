@@ -1,0 +1,8 @@
+﻿FORO NRO 1
+
+Bueno Sin duda el Producto esta muy reflejado en el ciclo de vida que tuvo el software , por supuesto al momento del desarrollo Se tuvo que Darle mayor Importancia en el analisis claro sin descuidar la parte del diseño y el código , ya que depende de ello El software no presentará carencias , o fracturas al momento de Ejecutarlo. Por ello el ciclo de vida d3el software tiene que ser Fuerte , con un análisis Profundo ,Usando las metodogías ágiles mas adecuadas al proyecto ! Y así El producto pueda Cumplir las expectativas con el cliente.
+
+
+
+
+
