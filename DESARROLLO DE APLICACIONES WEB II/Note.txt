@@ -3,6 +3,20 @@
 Bueno Sin duda el Producto esta muy reflejado en el ciclo de vida que tuvo el software , por supuesto al momento del desarrollo Se tuvo que Darle mayor Importancia en el analisis claro sin descuidar la parte del diseño y el código , ya que depende de ello El software no presentará carencias , o fracturas al momento de Ejecutarlo. Por ello el ciclo de vida d3el software tiene que ser Fuerte , con un análisis Profundo ,Usando las metodogías ágiles mas adecuadas al proyecto ! Y así El producto pueda Cumplir las expectativas con el cliente.
 
 
+Foro NRO 2 
+
+
+¿Qué opina Ud. sobre la situación actual del desarrollo de aplicaciones web, y cual será su futuro en en el entorno de negocios?
+
+A mi Parecer El mundo web hoy en día Está cada vez más Fuerte , Y más con la coyuntura actual debido a la pandemia. Mas allá de haber Software que Faciliten la creación de sitios web , Esto vá mas allá ,Hay muchas empresas que tratan de Mejorar su negocio,Mejorar no solo en el aspécto de Marketing sino mas bien Mejorar sus Procesos como empresa, Automatizar sus funcionalidades.Por tanto El mundo Web Se orienta en atender necesidades básicas de cada persona u empresa, Y Esto implica mucho conocimiento por parte del desarrollador.
+Podemos decir que El Desarrollo web está  pleno desarrollo ,Ya que si anteriormente el mundo programaba en un solo lenguaje hoy En día Existen muchísimos mas lenguajes con bastantes mejoras como go,Phyton,etc.
+Muy aparte el desarrollo web tambien adopta  las nuevas tecnologias como, Machin learnig , Deep learnig, Bigdata entre otras , para el procesamiento de datos.
+
+
+
+
+Hoy en día Hay muchas empresas que requieren Desarrolladores web 
+
 
 
 
