@@ -1,0 +1,8 @@
+﻿
+
+El objetivo de la UI es hacer que la interacción del usuario con la app sea lo más simple posible pero eficiente , que pueda satisfacer las espectativas del usuario.
+Claros ejemplos son 
+al momento de desarrollar las aplicaciones podriamos ver la diferencia que puede verse el diseño  si lo vemos de una tablet o si lo vemos de un movil, Aparte de ello nos referimos a UI cuando tratamos que las automatizaciones o los objetos  sean más atractivos o bonitos.
+
+Ahora UX no es un cocepto diferente, van de la mano, UX dirige toda la atención al usuario, en todo lo que el usuario quiere hacer con la aplicación.
+Por ello un UX es aquello que una persona percibe al interactuar con un servicio 
