@@ -19,4 +19,21 @@ Hoy en día Hay muchas empresas que requieren Desarrolladores web
 
 
 
+EXPosición grupal 1:
+Bueno primeramente hay que reconocer que apesar de que scrum es una metológia muy sonada y que tinene una comunidad muy grande que le apoya , xp es una de las pioneras de metologías ágiles , 
 
+todas las metodlogís cumplen con esas cuatro estructuras , aunque los vean con nombres distintas , o le den mas importancia a una que  aotra , todas hacen esos procesos , inicó por los 80 ,   tiene algunas variantes que es la IXP ya para empresas mas grandes , bueno en nuestro contexto pws es mas que suficiente la xp, ya que generalmente nosotros tranbajamos de 4 a 8 , y pw no usmos, tal vez cuando podam,os trabajar en empresas grandes de produccion de spftware i8ndustriales que si manejen pws hay que tener en cuenta que hay si es muy util, 
+
+XP sigue la estructura agil pero incorpora 5 valores que tiene que practicarse ,
+primero la comunicación al igual que escrum , le da mucha importacia  a la comunicación ya que quiere que hayga este ambienete entre todos los miembros del desartollo, 
+
+No solo el grupo de desarrollo sino tambien hacia los clientes y todos los que interactuen con el pproyecto 
+
+el segundo valor es la simplicidad , cuanto mas simple se vuelvalas cosas va ser simple tambien para el ususario final, El diseño tiene que ser facil y simple , simple de manejar simple de mantener , simplicidad pero no quierew decir que el sofytware tiene que ser facil , sino tienbe que ser facil para el susuario , si esa así no vamos a estrar tal vex incomdoods cuando el suaurio nos este llamandop no ?
+
+Ahora retroalimentación , cada software que nosotros implementemos ,siempre debemos dejar un aprendizaje , ada software va a devolver informacíón , entonces esto vemos cuando el usuario interactua con el software , el mismo cliente se da cuenta de,que falta mejorar en algo !
+
+LA valentía , todas las metodlogias agiles rompen el esquema , por ello esto implica romper la zona de conford , cada cambio que pueda rewquerir necesita valetía ,
+
+
+El ulñtimo pws es el respeto , respetar a los miebros de desarrollo , respetar a los clientes , respetar en si a todos las personas que esten fuera o dentro del proyecto ,  
